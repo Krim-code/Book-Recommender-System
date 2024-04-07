@@ -1,0 +1,12 @@
+form{
+    display: flex;
+}
+.content {
+    margin-top: 100px;
+   
+}
+
+.btn-warning {
+    background-color: #ffc107;
+    color: black;
+}
